@@ -13,4 +13,4 @@ Some key awesome that you are sure to enjoy on reddup.co are
 	- Hiding nsfw posts.
 	- Responsive mobile ui.
 
-Please use this github project to post issues and feature requests.
+Please use this github project to post [issues](https://github.com/CavemanNinja/reddupco/issues) and feature requests.
