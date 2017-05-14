@@ -1,4 +1,4 @@
-[[https://github.com/cavemanninja/reddupco/blob/master/github.png|alt=reddup.co]]
+![reddup.co](https://github.com/cavemanninja/reddupco/blob/master/github.png|alt=reddup.co)
 
 http://reddup.co is a material design reddit web app that offers a new way to browse reddit.
 
